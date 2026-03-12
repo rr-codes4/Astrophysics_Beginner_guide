@@ -1,5 +1,5 @@
 # Astrophysics_Beginner_guide
-"A curated collection of Python tools, NASA datasets, and learning notes for aspiring astrophysicists."
+"A curated collection of Python tools, NASA datasets for aspiring astrophysicists."
 # 🌌 Astrophysics & Python: A Beginner's Map
 Welcome! I am building this repository to document my journey toward a PhD in Astrophysics. 
 
@@ -13,6 +13,3 @@ To study the stars, you need these "Big Three" libraries:
 1. **NumPy:** For handling large arrays of telescope data.
 2. **Matplotlib:** For plotting star charts and light curves.
 3. **Astropy:** The industry standard for astronomical calculations.
-
-## 📝 My Learning Notes
-* [Link to your first Colab Notebook here] - "How to calculate Stellar Luminosity with NumPy."
